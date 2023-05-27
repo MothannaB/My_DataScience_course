@@ -1,0 +1,8 @@
+troublshoot:
+-track from begining and make sure you're getting the correct output after each step using print
+-compare to a working version to spot the difference
+-plant print stmts at begining of functions to see if that spot was reached
+-divide big code into samll portions and invistigate them one at a time
+-understand the components of the system and the flow of execution to isolate the braking point
+-test functionality on a small data piece, once you confirm its woking, move to next
+

@@ -1,0 +1,147 @@
+make,model,car_ID
+Nissan,versa,1
+alfa-romero,Quadrifoglio,1
+alfa-romero,giulia,1
+alfa-romero,stelvio,1
+audi,100 ls,1
+audi,100ls,2
+audi,4000,1
+audi,5000,1
+audi,5000s (diesel),1
+audi,fox,1
+bmw,320i,2
+bmw,x1,1
+bmw,x3,2
+bmw,x4,1
+bmw,x5,1
+bmw,z4,1
+buick,century,1
+buick,century luxus (sw),1
+buick,century special,1
+buick,electra 225 custom,1
+buick,opel isuzu deluxe,1
+buick,regal sport coupe (turbo),1
+buick,skyhawk,1
+buick,skylark,1
+chevrolet,impala,1
+chevrolet,monte carlo,1
+chevrolet,vega 2300,1
+dodge,challenger se,1
+dodge,colt (sw),1
+dodge,colt hardtop,1
+dodge,coronet custom,1
+dodge,coronet custom (sw),1
+dodge,d200,1
+dodge,dart custom,1
+dodge,monaco (sw),1
+dodge,rampage,1
+honda,accord,2
+honda,accord cvcc,1
+honda,accord lx,1
+honda,civic,3
+honda,civic (auto),1
+honda,civic 1300,1
+honda,civic 1500 gl,1
+honda,civic cvcc,2
+honda,prelude,1
+isuzu,D-Max ,2
+isuzu,D-Max V-Cross,1
+isuzu,MU-X,1
+jaguar,xf,1
+jaguar,xj,1
+jaguar,xk,1
+maxda,glc deluxe,1
+maxda,rx3,1
+mazda,626,3
+mazda,glc,2
+mazda,glc 4,1
+mazda,glc custom,1
+mazda,glc custom l,1
+mazda,glc deluxe,2
+mazda,rx-4,2
+mazda,rx-7 gs,2
+mazda,rx2 coupe,1
+mercury,cougar,1
+mitsubishi,g4,3
+mitsubishi,lancer,1
+mitsubishi,mirage,1
+mitsubishi,mirage g4,3
+mitsubishi,montero,1
+mitsubishi,outlander,3
+mitsubishi,pajero,1
+nissan,clipper,2
+nissan,dayz,1
+nissan,fuga,1
+nissan,gt-r,1
+nissan,juke,1
+nissan,kicks,1
+nissan,latio,2
+nissan,leaf,1
+nissan,note,1
+nissan,nv200,1
+nissan,otti,1
+nissan,rogue,2
+nissan,teana,1
+nissan,titan,1
+peugeot,304,1
+peugeot,504,6
+peugeot,504 (sw),1
+peugeot,505s turbo diesel,1
+peugeot,604sl,2
+plymouth,cricket,1
+plymouth,duster,1
+plymouth,fury gran sedan,1
+plymouth,fury iii,2
+plymouth,satellite custom (sw),1
+plymouth,valiant,1
+porcshce,panamera,1
+porsche,boxter,1
+porsche,cayenne,2
+porsche,macan,1
+renault,12tl,1
+renault,5 gtl,1
+saab,99e,2
+saab,99gle,2
+saab,99le,2
+subaru,baja,1
+subaru,brz,1
+subaru,dl,4
+subaru,r1,1
+subaru,r2,1
+subaru,trezia,1
+subaru,tribeca,1
+toyota,carina,1
+toyota,celica gt,1
+toyota,celica gt liftback,1
+toyota,corolla,6
+toyota,corolla 1200,2
+toyota,corolla 1600 (sw),1
+toyota,corolla liftback,2
+toyota,corolla tercel,1
+toyota,corona,6
+toyota,corona hardtop,1
+toyota,corona liftback,1
+toyota,corona mark ii,1
+toyota,cressida,1
+toyota,mark ii,3
+toyota,starlet,2
+toyota,tercel,1
+toyouta,tercel,1
+vokswagen,rabbit,1
+volkswagen,1131 deluxe sedan,1
+volkswagen,411 (sw),1
+volkswagen,dasher,2
+volkswagen,model 111,1
+volkswagen,rabbit,1
+volkswagen,rabbit custom,1
+volkswagen,super beetle,1
+volkswagen,type 3,1
+volvo,144ea,2
+volvo,145e (sw),2
+volvo,244dl,2
+volvo,245,1
+volvo,246,1
+volvo,264gl,2
+volvo,diesel,1
+vw,dasher,1
+vw,rabbit,1

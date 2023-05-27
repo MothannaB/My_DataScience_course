@@ -1,0 +1,39 @@
+-programming language X
+-syntax X
+-compiler X
+*use python to introduce the concepts
+-variables & constsX
+-data typesX
+-operatorsX
+
+-operation precedenceX
+-expressionsX
+-statementsX
+-data structuresX
+-control structuresX
+-functionsX
+-scope -> introduced during the lessons
+
+
+
+-add euqations to variablesX
+
+-OOP
+-code editor
+-comments
+
+-swap
+
+-functions that finds min, max
+-search for a value and return true if found, false otherwise
+-count the elements in a list of number
+-find average of a list of numbers
+-print multiplication table
+-function that checks if a number is even
+-function that prints welcome <name>
+-sort list
+
+
+
+
+

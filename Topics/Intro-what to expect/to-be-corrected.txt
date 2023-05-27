@@ -1,0 +1,28 @@
+notes:
+-you get distracted a lot and take unneccssary pauses. don't lose focus
+-minimal use of ah ah ah
+-some sentences are uncesserly fragmented
+-avoid touching your self, especiilay hair
+-don't act as tired or board
+
+1) sit straight
+2) raise your voice, dont talk internally to your self
+3) to give you some  background, this project is carried out by .. with two goal to be achived by the end
+4) sya clear-> self 
+5) delete 'the process of filling out'
+6) defaulted on one of the payments at any single point
+7) issues that can present themselves-> potential issues that might be present in our data
+8) say data analytics or data sc
+9)beneficial to out analyisis not project
+10) were in the format -> were formatted as d/m/y
+11) rngdata point -> wrong entry oy faulty meaurment tool
+12) outlier -> gives simple examples
+13) let's take a look at this sample from the full data sets and invistigate any issue in it and fix them manullay to observe the process
+14) make sure to mentione to not pay attention to the techniques used in cleaning bt rather 
+15) two pices of information
+16) duplicated -> can't be seen easily by handling each column separetly
+17) call them steps not processes.
+18) to know whether is determined by
+19) average them out
+20) take some variable and check thier charectaristic
+21) places applicant in separate grious 

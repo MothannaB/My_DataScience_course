@@ -1,0 +1,22 @@
+-what is a library
+-what is pandas
+-what is inside it
+-what is a series, dataframe
+-explain how these are classes that contain attribute and methods
+-using the dot notation to access the properties and methods
+-focus on gradual work, use print statement and segmenting code into cells
+-focus on type function to know the object type and be able figure how to process it
+-serialization of functions on an object
+-navigating docs to see how to use the attributes and methods properly
+how to troublshoot errors
+
+methods to intro:
+info
+columns
+index
+head
+unique
+fillNa
+dropNa
+Loc
+groupBy

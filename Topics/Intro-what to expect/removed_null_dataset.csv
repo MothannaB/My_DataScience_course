@@ -1,0 +1,615 @@
+Loan_ID,Gender,Married,Dependents,Education,Self_Employed,Property_Area,purpose,loan amount,annual income,dti,fico credit score,Loan_Status
+LP001002,Male,No,0,Graduate,No,Urban,debt_consolidation,"16,558","85,000",19.48,737,Y
+LP001003,Male,Yes,1,Graduate,No,Rural,credit_card,"9,289","65,000",14.29,707,N
+LP001005,Male,Yes,0,Graduate,Yes,Urban,debt_consolidation,"3,722","32,000",11.63,682,Y
+LP001006,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation,"6,885","85,000",8.1,712,Y
+LP001008,Male,No,0,Graduate,No,Urban,credit_card,"12,096","80,800",14.97,667,Y
+LP001011,Male,Yes,2,Graduate,Yes,Urban,credit_card,"25,130","148,000",16.98,727,Y
+LP001013,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation,"1,800","45,000",4,667,Y
+LP001014,Male,Yes,3+,Graduate,No,Semiurban,all_other,"6,648","60,000",11.08,722,N
+LP001018,Male,Yes,2,Graduate,No,Urban,home_improvement,"15,525","90,000",17.25,682,Y
+LP001020,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"2,700","27,000",10,707,N
+LP001024,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"7,511","34,000",22.09,677,Y
+LP001027,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"12,641","138,000",9.16,662,Y
+LP001028,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"8,674","56,000",15.49,767,Y
+LP001029,Male,No,0,Graduate,No,Rural,small_business,"6,500","100,000",6.5,747,N
+LP001030,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"1,284","13,200",9.73,727,Y
+LP001032,Male,No,0,Graduate,No,Urban,major_purchase,"6,014","46,116",13.04,702,Y
+LP001034,Male,No,1,Not Graduate,No,Urban,all_other,840,"37,152",2.26,672,Y
+LP001036,Female,No,0,Graduate,No,Urban,credit_card,"7,777","110,000",7.07,797,N
+LP001038,Male,Yes,0,Not Graduate,No,Rural,debt_consolidation,"1,368","36,000",3.8,712,N
+LP001041,Male,Yes,0,Graduate,No,Urban,major_purchase,"1,644","60,000",2.74,667,Y
+LP001043,Male,Yes,0,Not Graduate,No,Urban,all_other,"12,060","75,000",16.08,772,N
+LP001046,Male,Yes,1,Graduate,No,Urban,all_other,"1,295","50,000",2.59,797,Y
+LP001047,Male,Yes,0,Not Graduate,No,Semiurban,credit_card,"7,940","100,000",7.94,662,N
+LP001050,Male,Yes,2,Not Graduate,No,Rural,credit_card,"8,813","125,000",7.05,782,N
+LP001052,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"6,864","78,000",8.8,672,N
+LP001066,Male,Yes,0,Graduate,Yes,Semiurban,all_other,"25,000","250,000",10,712,Y
+LP001068,Male,Yes,0,Graduate,No,Semiurban,all_other,182,"65,000",0.28,802,Y
+LP001073,Male,Yes,2,Not Graduate,No,Urban,debt_consolidation,"3,144","22,000",14.29,662,Y
+LP001086,Male,No,0,Not Graduate,No,Urban,all_other,560,"200,000",0.28,772,N
+LP001087,Female,No,2,Graduate,No,Semiurban,all_other,"7,440","200,000",3.72,812,Y
+LP001091,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"2,300","100,000",2.3,742,N
+LP001095,Male,No,0,Graduate,No,Urban,credit_card,"1,152","18,000",6.4,692,N
+LP001097,Male,No,1,Graduate,Yes,Rural,home_improvement, -   ,"150,000",0,777,N
+LP001098,Male,Yes,0,Graduate,No,Semiurban,home_improvement,"12,463","110,000",11.33,762,Y
+LP001100,Male,No,3+,Graduate,No,Rural,credit_card,"11,662","75,000",15.55,757,N
+LP001106,Male,Yes,0,Graduate,No,Urban,all_other,"3,638","95,000",3.83,772,Y
+LP001109,Male,Yes,0,Graduate,No,Urban,credit_card,264,"85,000",0.31,787,N
+LP001112,Female,Yes,0,Graduate,No,Semiurban,credit_card,968,"80,000",1.21,672,Y
+LP001114,Male,No,0,Graduate,No,Urban,debt_consolidation,"3,854","48,000",8.03,707,Y
+LP001116,Male,No,0,Not Graduate,No,Semiurban,home_improvement,"21,474","180,000",11.93,717,Y
+LP001119,Male,No,0,Graduate,No,Urban,home_improvement,"9,990","180,000",5.55,742,N
+LP001120,Male,No,0,Graduate,No,Urban,debt_consolidation,"2,748","120,000",2.29,777,Y
+LP001123,Male,Yes,0,Graduate,No,Urban,small_business,"3,635","25,000",14.54,752,Y
+LP001131,Male,Yes,0,Graduate,No,Semiurban,home_improvement, -   ,"200,000",0,677,Y
+LP001136,Male,Yes,0,Not Graduate,Yes,Urban,credit_card,"5,592","30,000",18.64,702,Y
+LP001137,Female,No,0,Graduate,No,Urban,credit_card,"10,634","74,000",14.37,797,Y
+LP001138,Male,Yes,1,Graduate,No,Urban,educational,240,"8,000",3,762,Y
+LP001144,Male,Yes,0,Graduate,No,Urban,all_other,"4,730","32,000",14.78,772,Y
+LP001146,Female,Yes,0,Graduate,No,Urban,credit_card,"7,271","73,000",9.96,722,N
+LP001151,Female,No,0,Graduate,No,Semiurban,debt_consolidation,338,"125,000",0.27,792,Y
+LP001155,Female,Yes,0,Not Graduate,No,Semiurban,credit_card,504,"45,000",1.12,782,Y
+LP001157,Female,No,0,Graduate,No,Semiurban,small_business,"2,929","27,376",10.7,712,Y
+LP001164,Female,No,0,Graduate,No,Semiurban,small_business,"1,944","48,000",4.05,762,N
+LP001179,Male,Yes,2,Graduate,No,Urban,educational,"2,219","13,500",16.44,712,N
+LP001186,Female,Yes,1,Graduate,Yes,Urban,debt_consolidation,"6,562","52,200",12.57,627,N
+LP001194,Male,Yes,2,Graduate,No,Semiurban,small_business,"10,272","60,000",17.12,747,Y
+LP001195,Male,Yes,0,Graduate,No,Semiurban,credit_card,408,"20,000",2.04,662,Y
+LP001197,Male,Yes,0,Graduate,No,Rural,credit_card,"14,717","145,000",10.15,682,N
+LP001198,Male,Yes,1,Graduate,No,Urban,credit_card,"11,250","75,000",15,682,Y
+LP001199,Male,Yes,2,Not Graduate,No,Urban,all_other,"4,632","60,000",7.72,712,Y
+LP001205,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"4,641","65,000",7.14,682,Y
+LP001206,Male,Yes,3+,Graduate,No,Urban,all_other,"1,020","40,000",2.55,772,Y
+LP001207,Male,Yes,0,Not Graduate,Yes,Rural,all_other,300,"20,000",1.5,682,N
+LP001213,Male,Yes,1,Graduate,No,Rural,debt_consolidation,"2,701","36,153",7.47,667,N
+LP001222,Female,No,0,Graduate,No,Semiurban,credit_card,"8,350","98,000",8.52,752,N
+LP001225,Male,Yes,0,Graduate,No,Semiurban,all_other,"4,918","33,990",14.47,687,N
+LP001228,Male,No,0,Not Graduate,No,Urban,all_other,"8,627","78,000",11.06,702,N
+LP001233,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"11,115","130,000",8.55,712,Y
+LP001238,Male,Yes,3+,Not Graduate,Yes,Urban,debt_consolidation,"6,083","35,000",17.38,707,Y
+LP001241,Female,No,0,Graduate,No,Semiurban,home_improvement,"14,580","225,000",6.48,752,N
+LP001243,Male,Yes,0,Graduate,No,Urban,credit_card,"3,192","70,000",4.56,812,Y
+LP001245,Male,Yes,2,Not Graduate,Yes,Semiurban,home_improvement,"4,080","150,000",2.72,757,Y
+LP001248,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"7,262","48,000",15.13,722,Y
+LP001250,Male,Yes,3+,Not Graduate,No,Semiurban,small_business,"13,738","213,000",6.45,677,N
+LP001253,Male,Yes,3+,Graduate,Yes,Semiurban,home_improvement,"15,000","75,000",20,772,Y
+LP001255,Male,No,0,Graduate,No,Urban,home_improvement,"6,400","32,000",20,682,N
+LP001256,Male,No,0,Graduate,No,Urban,debt_consolidation,"5,400","40,000",13.5,712,N
+LP001259,Male,Yes,1,Graduate,Yes,Urban,educational,"1,380","40,000",3.45,772,N
+LP001263,Male,Yes,3+,Graduate,No,Semiurban,credit_card,"4,249","70,000",6.07,712,N
+LP001264,Male,Yes,3+,Not Graduate,Yes,Semiurban,all_other,"3,240","18,000",18,707,Y
+LP001265,Female,No,0,Graduate,No,Semiurban,home_improvement,"2,675","125,000",2.14,762,Y
+LP001266,Male,Yes,1,Graduate,Yes,Semiurban,all_other,"2,675","50,000",5.35,762,Y
+LP001267,Female,Yes,2,Graduate,No,Urban,all_other,"18,000","120,000",15,742,N
+LP001273,Male,Yes,0,Graduate,No,Semiurban,all_other,"15,000","100,000",15,722,N
+LP001275,Male,Yes,1,Graduate,No,Urban,home_improvement,"7,583","62,000",12.23,737,Y
+LP001279,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"2,485","35,000",7.1,662,Y
+LP001280,Male,Yes,2,Not Graduate,No,Semiurban,credit_card,"11,712","60,000",19.52,667,Y
+LP001282,Male,Yes,0,Graduate,No,Semiurban,all_other,"2,138","61,800",3.46,747,Y
+LP001289,Male,No,0,Graduate,No,Urban,credit_card,"4,716","90,000",5.24,662,Y
+LP001310,Male,Yes,0,Graduate,No,Semiurban,small_business,"2,746","96,000",2.86,737,Y
+LP001316,Male,Yes,0,Graduate,No,Semiurban,small_business,"1,836","15,000",12.24,672,Y
+LP001318,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"3,708","30,000",12.36,682,Y
+LP001319,Male,Yes,2,Not Graduate,No,Urban,debt_consolidation,"7,200","150,000",4.8,767,Y
+LP001322,Male,No,0,Graduate,No,Semiurban,credit_card,"15,840","88,000",18,702,Y
+LP001325,Male,No,0,Not Graduate,No,Semiurban,all_other,"2,199","63,000",3.49,792,Y
+LP001326,Male,No,0,Graduate,No,Urban,debt_consolidation,"2,250","45,000",5,762,N
+LP001327,Female,Yes,0,Graduate,No,Semiurban,debt_consolidation,"45,000","225,000",20,727,Y
+LP001333,Male,Yes,0,Graduate,No,Semiurban,all_other,"1,246","173,000",0.72,787,Y
+LP001334,Male,Yes,0,Not Graduate,No,Semiurban,all_other,"2,196","90,000",2.44,792,Y
+LP001343,Male,Yes,0,Graduate,No,Semiurban,home_improvement,"8,984","93,000",9.66,792,Y
+LP001345,Male,Yes,2,Not Graduate,No,Urban,debt_consolidation,507,"118,000",0.43,772,Y
+LP001349,Male,No,0,Graduate,No,Semiurban,all_other,"1,260","45,000",2.8,667,Y
+LP001350,Male,Yes,1,Graduate,No,Urban,small_business,"16,214","96,000",16.89,702,Y
+LP001356,Male,Yes,0,Graduate,No,Semiurban,home_improvement,"8,760","150,000",5.84,792,Y
+LP001357,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"7,162","75,000",9.55,762,Y
+LP001367,Male,Yes,1,Graduate,No,Urban,home_improvement,"2,644","85,000",3.11,797,Y
+LP001369,Male,Yes,2,Graduate,No,Urban,credit_card,"7,140","70,000",10.2,672,Y
+LP001370,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"2,642","45,000",5.87,692,N
+LP001379,Male,Yes,2,Graduate,No,Urban,all_other,"1,152","23,000",5.01,662,N
+LP001384,Male,Yes,3+,Not Graduate,No,Semiurban,debt_consolidation,"17,280","120,000",14.4,722,Y
+LP001385,Male,No,0,Graduate,No,Urban,credit_card,"4,115","57,000",7.22,712,Y
+LP001387,Female,Yes,0,Graduate,No,Semiurban,debt_consolidation,"12,838","72,000",17.83,687,Y
+LP001391,Male,Yes,0,Not Graduate,No,Rural,all_other, -   ,"120,000",0,772,N
+LP001392,Female,No,1,Graduate,Yes,Semiurban,debt_consolidation,242,"110,000",0.22,812,Y
+LP001398,Male,No,0,Graduate,No,Semiurban,small_business,"1,408","92,000",1.53,667,Y
+LP001401,Male,Yes,1,Graduate,No,Rural,educational,"1,548","19,000",8.15,692,Y
+LP001404,Female,Yes,0,Graduate,No,Semiurban,credit_card,"7,177","32,400",22.15,747,Y
+LP001405,Male,Yes,1,Graduate,No,Urban,small_business,"9,190","50,000",18.38,707,Y
+LP001421,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"6,096","62,200",9.8,677,N
+LP001422,Female,No,0,Graduate,No,Urban,debt_consolidation,"11,833","57,000",20.76,667,Y
+LP001426,Male,Yes,1,Graduate,No,Rural,credit_card,"9,254","87,300",10.6,692,Y
+LP001430,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"1,981","39,000",5.08,667,Y
+LP001431,Female,No,0,Graduate,No,Semiurban,all_other,"2,244","85,000",2.64,782,Y
+LP001432,Male,Yes,2,Graduate,No,Semiurban,all_other,"1,487","45,600",3.26,687,Y
+LP001439,Male,Yes,0,Not Graduate,No,Rural,debt_consolidation,"7,863","57,100",13.77,682,Y
+LP001443,Female,No,0,Graduate,No,Rural,home_improvement,"8,268","40,000",20.67,692,Y
+LP001448,Male,Yes,3+,Graduate,No,Rural,all_other,"6,120","30,000",20.4,742,Y
+LP001449,Male,No,0,Graduate,No,Rural,all_other,"6,600","55,000",12,797,Y
+LP001451,Male,Yes,1,Graduate,Yes,Urban,debt_consolidation,"3,553","36,000",9.87,707,N
+LP001465,Male,Yes,0,Graduate,No,Rural,all_other,"8,217","90,000",9.13,697,N
+LP001469,Male,No,0,Graduate,Yes,Urban,small_business, -   ,"10,000",0,662,Y
+LP001473,Male,No,0,Graduate,No,Urban,small_business,"5,423","85,000",6.38,667,Y
+LP001478,Male,No,0,Graduate,No,Semiurban,small_business,"11,520","480,000",2.4,697,Y
+LP001482,Male,Yes,0,Graduate,Yes,Semiurban,all_other,"7,691","31,000",24.81,767,Y
+LP001487,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"1,800","12,500",14.4,662,Y
+LP001488,Male,Yes,3+,Graduate,No,Semiurban,credit_card,"10,196","105,000",9.71,752,N
+LP001489,Female,Yes,0,Graduate,No,Rural,all_other,"14,592","120,000",12.16,742,N
+LP001491,Male,Yes,2,Graduate,Yes,Urban,all_other,"2,375","62,000",3.83,702,Y
+LP001492,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"3,397","54,000",6.29,742,N
+LP001493,Male,Yes,2,Not Graduate,No,Rural,credit_card,362,"32,000",1.13,677,N
+LP001497,Male,Yes,2,Graduate,No,Rural,educational,"3,719","29,120",12.77,662,N
+LP001498,Male,No,0,Graduate,No,Urban,debt_consolidation,"6,887","36,400",18.92,682,Y
+LP001504,Male,No,0,Graduate,Yes,Semiurban,all_other,"4,594","39,000",11.78,707,Y
+LP001507,Male,Yes,0,Graduate,No,Semiurban,all_other,"2,040","35,000",5.83,687,Y
+LP001508,Male,Yes,2,Graduate,No,Urban,educational,"2,772","18,000",15.4,707,Y
+LP001514,Female,Yes,0,Graduate,No,Semiurban,all_other,"4,884","60,000",8.14,707,Y
+LP001516,Female,Yes,2,Graduate,No,Urban,small_business,"12,600","70,000",18,732,Y
+LP001518,Male,Yes,1,Graduate,No,Urban,all_other,"4,846","49,000",9.89,772,Y
+LP001519,Female,No,0,Graduate,No,Rural,all_other,"12,299","70,000",17.57,737,N
+LP001520,Male,Yes,0,Graduate,No,Semiurban,credit_card,"7,992","45,000",17.76,717,Y
+LP001528,Male,No,0,Graduate,No,Rural,debt_consolidation,"14,340","85,000",16.87,707,N
+LP001529,Male,Yes,0,Graduate,Yes,Rural,debt_consolidation,"5,568","55,400",10.05,692,Y
+LP001531,Male,No,0,Graduate,No,Urban,all_other,"3,660","15,000",24.4,737,N
+LP001532,Male,Yes,2,Not Graduate,No,Rural,debt_consolidation,"4,547","25,000",18.19,672,N
+LP001535,Male,No,0,Graduate,No,Urban,small_business,"5,090","57,000",8.93,822,Y
+LP001536,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"4,066","84,000",4.84,727,Y
+LP001541,Male,Yes,1,Graduate,No,Rural,all_other,"7,573","38,000",19.93,687,Y
+LP001543,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"4,020","50,000",8.04,672,Y
+LP001546,Male,No,0,Graduate,No,Rural,small_business,"7,656","46,713",16.39,692,Y
+LP001552,Male,Yes,0,Graduate,No,Semiurban,all_other,"6,363","70,000",9.09,797,Y
+LP001560,Male,Yes,0,Not Graduate,No,Semiurban,debt_consolidation,"18,637","75,000",24.85,722,Y
+LP001562,Male,Yes,0,Graduate,No,Urban,all_other,"26,171","109,000",24.01,767,N
+LP001565,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"5,881","52,000",11.31,667,N
+LP001570,Male,Yes,2,Graduate,No,Rural,home_improvement,624,"78,000",0.8,732,Y
+LP001572,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"20,364","120,000",16.97,697,Y
+LP001574,Male,Yes,0,Graduate,No,Rural,home_improvement,"8,168","275,000",2.97,712,Y
+LP001577,Female,Yes,0,Graduate,No,Rural,educational,"1,260","30,000",4.2,737,N
+LP001578,Male,Yes,0,Graduate,No,Rural,all_other,"1,284","14,400",8.92,672,Y
+LP001579,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"5,397","63,500",8.5,682,N
+LP001580,Male,Yes,2,Graduate,No,Semiurban,credit_card,"15,161","116,000",13.07,727,Y
+LP001581,Male,Yes,0,Not Graduate,No,Rural,all_other,960,"25,000",3.84,632,Y
+LP001585,Male,Yes,3+,Graduate,No,Urban,educational,"6,302","41,000",15.37,747,Y
+LP001586,Male,Yes,3+,Not Graduate,No,Rural,all_other,"1,331","21,000",6.34,752,N
+LP001594,Male,Yes,0,Graduate,No,Semiurban,all_other,"7,428","62,000",11.98,682,Y
+LP001603,Male,Yes,0,Not Graduate,Yes,Semiurban,home_improvement, -   ,"93,000",0,812,N
+LP001606,Male,Yes,0,Graduate,No,Rural,credit_card,"13,081","66,000",19.82,677,Y
+LP001608,Male,Yes,2,Graduate,No,Rural,all_other,"2,916","27,000",10.8,682,Y
+LP001610,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"5,509","35,000",15.74,692,N
+LP001616,Male,Yes,1,Graduate,No,Semiurban,educational,"4,966","52,000",9.55,767,Y
+LP001630,Male,No,0,Not Graduate,No,Urban,debt_consolidation,"2,628","35,000",7.51,687,N
+LP001633,Male,Yes,1,Graduate,No,Urban,credit_card,"10,516","88,000",11.95,702,N
+LP001634,Male,No,0,Graduate,No,Rural,all_other,"2,364","30,000",7.88,687,N
+LP001636,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"9,527","51,000",18.68,682,Y
+LP001637,Male,Yes,1,Graduate,No,Semiurban,credit_card,"2,052","20,000",10.26,757,N
+LP001639,Female,Yes,0,Graduate,No,Semiurban,educational,"1,738","95,000",1.83,667,Y
+LP001640,Male,Yes,0,Graduate,Yes,Semiurban,debt_consolidation,"4,197","68,686",6.11,777,Y
+LP001641,Male,Yes,1,Graduate,Yes,Rural,debt_consolidation,492,"60,000",0.82,767,N
+LP001643,Male,Yes,0,Graduate,No,Rural,small_business,"23,593","616,000",3.83,782,Y
+LP001644,Male,Yes,0,Graduate,Yes,Rural,credit_card,"8,232","44,000",18.71,747,Y
+LP001647,Male,Yes,0,Graduate,No,Rural,credit_card,"13,736","80,000",17.17,677,Y
+LP001653,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"7,384","80,000",9.23,687,Y
+LP001656,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"30,720","150,000",20.48,687,N
+LP001657,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation,"1,140","95,000",1.2,812,N
+LP001658,Male,No,0,Graduate,No,Semiurban,educational,"2,004","12,000",16.7,687,Y
+LP001664,Male,No,0,Graduate,No,Rural,small_business,"5,962","92,000",6.48,712,Y
+LP001665,Male,Yes,1,Graduate,No,Semiurban,credit_card,"11,042","62,000",17.81,682,N
+LP001666,Male,No,0,Graduate,No,Rural,all_other,"7,499","32,904",22.79,682,Y
+LP001669,Female,No,0,Not Graduate,No,Urban,all_other,769,"18,000",4.27,722,Y
+LP001671,Female,Yes,0,Graduate,No,Semiurban,credit_card,"21,400","200,000",10.7,697,Y
+LP001673,Male,No,0,Graduate,Yes,Urban,all_other,184,"153,000",0.12,757,N
+LP001674,Male,Yes,1,Not Graduate,No,Semiurban,all_other,"6,205","42,500",14.6,677,Y
+LP001677,Male,No,2,Graduate,No,Semiurban,debt_consolidation,"5,399","44,400",12.16,682,Y
+LP001682,Male,Yes,3+,Not Graduate,No,Urban,major_purchase,"8,050","72,000",11.18,757,N
+LP001688,Male,Yes,1,Not Graduate,No,Urban,debt_consolidation,"6,494","48,000",13.53,787,Y
+LP001691,Male,Yes,2,Not Graduate,No,Semiurban,debt_consolidation,"2,808","40,000",7.02,667,Y
+LP001692,Female,No,0,Not Graduate,No,Semiurban,all_other,"6,732","44,000",15.3,692,Y
+LP001693,Female,No,0,Graduate,No,Urban,debt_consolidation,"5,940","50,000",11.88,702,Y
+LP001698,Male,No,0,Not Graduate,No,Rural,all_other,"7,453","72,500",10.28,702,Y
+LP001699,Male,No,0,Graduate,No,Urban,debt_consolidation,"4,668","24,000",19.45,757,Y
+LP001702,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"8,051","33,600",23.96,712,N
+LP001708,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"20,175","110,244",18.3,682,N
+LP001711,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"6,264","27,000",23.2,702,N
+LP001713,Male,Yes,1,Graduate,Yes,Urban,small_business,"5,065","52,000",9.74,712,Y
+LP001715,Male,Yes,3+,Not Graduate,Yes,Rural,credit_card,"9,131","52,000",17.56,707,Y
+LP001716,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"6,434","55,900",11.51,747,Y
+LP001720,Male,Yes,3+,Not Graduate,No,Semiurban,credit_card,"6,758","42,000",16.09,707,Y
+LP001722,Male,Yes,0,Graduate,No,Rural,small_business,"1,681","36,000",4.67,697,N
+LP001726,Male,Yes,0,Graduate,No,Semiurban,all_other,"1,284","38,000",3.38,697,Y
+LP001732,Male,Yes,2,Graduate,No,Semiurban,major_purchase,"13,046","86,400",15.1,682,N
+LP001734,Female,Yes,2,Graduate,No,Semiurban,all_other,"1,476","24,000",6.15,722,Y
+LP001736,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"5,952","30,000",19.84,702,N
+LP001743,Male,Yes,2,Graduate,No,Semiurban,credit_card,"2,590","52,000",4.98,662,Y
+LP001744,Male,No,0,Graduate,No,Semiurban,small_business,"17,098","96,000",17.81,707,Y
+LP001749,Male,Yes,0,Graduate,No,Semiurban,small_business,709,"43,000",1.65,777,Y
+LP001750,Male,Yes,0,Graduate,No,Semiurban,home_improvement,"5,413","97,000",5.58,697,Y
+LP001751,Male,Yes,0,Graduate,No,Rural,major_purchase,182,"48,000",0.38,717,N
+LP001754,Male,Yes,1,Not Graduate,Yes,Urban,debt_consolidation,"11,568","60,000",19.28,672,N
+LP001758,Male,Yes,2,Graduate,No,Semiurban,credit_card,"7,275","75,000",9.7,682,Y
+LP001760,Male,Yes,1,Graduate,No,Semiurban,home_improvement,"7,764","60,000",12.94,697,Y
+LP001761,Male,No,0,Graduate,Yes,Rural,debt_consolidation,"12,917","108,000",11.96,707,Y
+LP001765,Male,Yes,1,Graduate,No,Semiurban,all_other,"11,318","47,000",24.08,667,Y
+LP001768,Male,Yes,0,Graduate,No,Rural,all_other,"2,016","19,440",10.37,712,Y
+LP001770,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"4,416","58,800",7.51,662,Y
+LP001776,Female,No,0,Graduate,No,Semiurban,all_other,"8,636","45,000",19.19,692,Y
+LP001778,Male,Yes,1,Graduate,No,Semiurban,all_other,985,"36,600",2.69,697,Y
+LP001784,Male,Yes,1,Graduate,No,Rural,debt_consolidation,"3,540","25,000",14.16,692,Y
+LP001786,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"11,916","62,000",19.22,677,N
+LP001788,Female,No,0,Graduate,Yes,Urban,small_business,"16,632","80,000",20.79,682,Y
+LP001790,Female,No,1,Graduate,No,Rural,major_purchase,"6,129","77,000",7.96,772,Y
+LP001792,Male,Yes,1,Graduate,No,Semiurban,credit_card,"7,755","75,000",10.34,697,Y
+LP001798,Male,Yes,2,Graduate,No,Rural,major_purchase,"4,140","19,500",21.23,772,Y
+LP001800,Male,Yes,1,Not Graduate,No,Urban,debt_consolidation,"3,059","36,120",8.47,662,N
+LP001806,Male,No,0,Graduate,No,Urban,debt_consolidation,"3,480","24,000",14.5,672,Y
+LP001807,Male,Yes,2,Graduate,Yes,Rural,debt_consolidation,"8,578","50,400",17.02,672,Y
+LP001811,Male,Yes,0,Not Graduate,No,Semiurban,small_business,"12,795","75,000",17.06,767,Y
+LP001813,Male,No,0,Graduate,Yes,Urban,debt_consolidation,"13,371","70,522",18.96,692,N
+LP001814,Male,Yes,2,Graduate,No,Urban,small_business,"6,301","78,862",7.99,692,Y
+LP001819,Male,Yes,1,Not Graduate,No,Urban,all_other,"1,440","24,000",6,752,Y
+LP001824,Male,Yes,1,Graduate,No,Semiurban,all_other,"8,472","48,000",17.65,687,Y
+LP001825,Male,Yes,0,Graduate,No,Urban,credit_card,"15,372","120,000",12.81,677,Y
+LP001835,Male,Yes,0,Not Graduate,No,Semiurban,debt_consolidation,"16,155","73,000",22.13,737,N
+LP001836,Female,No,2,Graduate,No,Urban,debt_consolidation,"7,285","34,992",20.82,667,N
+LP001841,Male,No,0,Not Graduate,Yes,Rural,educational,"5,976","60,000",9.96,732,Y
+LP001843,Male,Yes,1,Not Graduate,No,Semiurban,all_other,"19,163","105,000",18.25,667,Y
+LP001844,Male,No,0,Graduate,Yes,Urban,debt_consolidation,"4,752","25,480",18.65,662,N
+LP001846,Female,No,3+,Graduate,No,Rural,debt_consolidation,"2,040","54,099",3.77,722,Y
+LP001849,Male,No,0,Not Graduate,No,Rural,all_other,"4,657","50,952",9.14,667,N
+LP001854,Male,Yes,3+,Graduate,No,Urban,debt_consolidation, -   ,"25,000",0,712,N
+LP001859,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"4,694","48,000",9.78,742,N
+LP001864,Male,Yes,3+,Not Graduate,No,Semiurban,credit_card,"12,055","111,000",10.86,687,N
+LP001865,Male,Yes,1,Graduate,No,Urban,home_improvement,958,"41,300",2.32,772,Y
+LP001868,Male,No,0,Graduate,No,Semiurban,small_business,"1,570","100,000",1.57,762,Y
+LP001870,Female,No,1,Graduate,No,Semiurban,all_other,"7,103","36,500",19.46,727,N
+LP001871,Female,No,0,Graduate,No,Rural,debt_consolidation,900,"5,000",18,702,Y
+LP001872,Male,No,0,Graduate,Yes,Semiurban,debt_consolidation,517,"18,000",2.87,697,Y
+LP001875,Male,No,0,Graduate,No,Rural,home_improvement,"4,941","135,000",3.66,672,Y
+LP001877,Male,Yes,2,Graduate,No,Semiurban,all_other,780,"120,000",0.65,792,Y
+LP001882,Male,Yes,3+,Graduate,No,Urban,credit_card,"6,685","100,671",6.64,722,Y
+LP001883,Female,No,0,Graduate,No,Rural,debt_consolidation,"2,784","60,000",4.64,662,N
+LP001884,Female,No,1,Graduate,No,Urban,credit_card,"13,322","83,000",16.05,667,Y
+LP001888,Female,No,0,Graduate,No,Urban,debt_consolidation,"2,412","67,000",3.6,712,Y
+LP001891,Male,Yes,0,Graduate,No,Urban,small_business,"5,037","87,000",5.79,677,Y
+LP001892,Male,No,0,Graduate,No,Rural,credit_card,"5,638","54,000",10.44,767,Y
+LP001894,Male,Yes,0,Graduate,No,Semiurban,all_other,"1,163","29,376",3.96,767,Y
+LP001896,Male,Yes,2,Graduate,No,Semiurban,all_other,576,"24,000",2.4,742,Y
+LP001900,Male,Yes,1,Graduate,No,Semiurban,home_improvement,"14,835","75,000",19.78,687,Y
+LP001903,Male,Yes,0,Graduate,No,Semiurban,credit_card,"4,837","39,975",12.1,687,Y
+LP001904,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"6,672","42,500",15.7,672,Y
+LP001907,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"5,413","38,556",14.04,702,Y
+LP001908,Female,Yes,0,Not Graduate,No,Rural,all_other,"12,080","97,188",12.43,667,Y
+LP001910,Male,No,1,Not Graduate,Yes,Urban,debt_consolidation,"2,039","24,960",8.17,712,N
+LP001914,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"8,170","100,000",8.17,707,Y
+LP001915,Male,Yes,2,Graduate,No,Urban,small_business,"2,440","107,000",2.28,742,Y
+LP001917,Female,No,0,Graduate,No,Urban,major_purchase,"1,441","25,920",5.56,682,Y
+LP001922,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"2,231","21,600",10.33,742,N
+LP001924,Male,No,0,Graduate,No,Rural,debt_consolidation,"5,127","68,640",7.47,717,Y
+LP001925,Female,No,0,Graduate,Yes,Semiurban,debt_consolidation,"6,264","36,000",17.4,667,N
+LP001926,Male,Yes,0,Graduate,No,Rural,all_other,"8,172","120,000",6.81,662,Y
+LP001931,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"17,289","102,000",16.95,747,Y
+LP001935,Male,No,0,Graduate,No,Rural,debt_consolidation,672,"10,000",6.72,707,Y
+LP001936,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"4,885","71,000",6.88,742,Y
+LP001938,Male,Yes,2,Graduate,No,Semiurban,all_other,"8,723","62,000",14.07,792,N
+LP001940,Male,Yes,2,Graduate,No,Urban,all_other,"4,560","19,800",23.03,717,Y
+LP001945,Female,No,1,Graduate,No,Urban,home_improvement,"9,826","73,992",13.28,732,N
+LP001947,Male,Yes,0,Graduate,No,Semiurban,all_other,721,"60,600",1.19,797,Y
+LP001949,Male,Yes,3+,Graduate,No,Urban,debt_consolidation,"12,719","58,000",21.93,727,Y
+LP001953,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"5,436","22,000",24.71,707,Y
+LP001954,Female,Yes,1,Graduate,No,Urban,credit_card,"11,603","112,000",10.36,702,Y
+LP001955,Female,No,0,Graduate,No,Rural,all_other,"15,075","112,000",13.46,702,N
+LP001963,Male,Yes,1,Graduate,No,Urban,all_other,"5,136","120,000",4.28,722,N
+LP001964,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation, -   ,"49,500",0,672,N
+LP001972,Male,Yes,1,Not Graduate,No,Semiurban,credit_card,"6,672","40,000",16.68,737,Y
+LP001974,Female,No,0,Graduate,No,Rural,small_business,"1,620","40,000",4.05,717,Y
+LP001977,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"1,596","26,000",6.14,697,Y
+LP001978,Male,No,0,Graduate,No,Rural,all_other,"12,789","522,000",2.45,762,Y
+LP001990,Male,No,0,Not Graduate,No,Urban,all_other,"10,452","120,000",8.71,687,N
+LP001993,Female,No,0,Graduate,No,Rural,all_other,"13,536","120,000",11.28,692,Y
+LP001994,Female,No,0,Graduate,No,Urban,home_improvement,"3,638","62,500",5.82,772,N
+LP001996,Male,No,0,Graduate,No,Rural,debt_consolidation,"3,960","18,000",22,662,N
+LP001998,Male,Yes,2,Not Graduate,No,Rural,debt_consolidation,"1,933","27,000",7.16,662,Y
+LP002002,Female,No,0,Graduate,No,Semiurban,credit_card,"2,582","96,000",2.69,712,Y
+LP002004,Male,No,0,Not Graduate,No,Semiurban,small_business,"7,874","38,000",20.72,662,Y
+LP002006,Female,No,0,Graduate,No,Rural,educational, -   ,"12,000",0,737,Y
+LP002008,Male,Yes,2,Graduate,Yes,Rural,credit_card,"8,520","50,000",17.04,662,Y
+LP002024,Male,Yes,0,Graduate,No,Rural,major_purchase,"4,476","24,000",18.65,727,N
+LP002031,Male,Yes,1,Not Graduate,No,Urban,all_other,"1,032","60,000",1.72,807,Y
+LP002035,Male,Yes,2,Graduate,No,Semiurban,credit_card,"17,849","133,000",13.42,687,Y
+LP002036,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"4,330","50,000",8.66,662,Y
+LP002043,Female,No,1,Graduate,No,Semiurban,debt_consolidation,"6,804","40,000",17.01,752,Y
+LP002050,Male,Yes,1,Graduate,Yes,Rural,all_other,599,"49,500",1.21,672,N
+LP002051,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"8,556","60,000",14.26,702,Y
+LP002053,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"2,448","24,600",9.95,752,Y
+LP002054,Male,Yes,2,Not Graduate,No,Rural,credit_card,"21,696","120,000",18.08,677,Y
+LP002055,Female,No,0,Graduate,No,Rural,debt_consolidation,"6,564","30,000",21.88,667,Y
+LP002065,Male,Yes,3+,Graduate,No,Rural,small_business,408,"48,000",0.85,682,Y
+LP002067,Male,Yes,1,Graduate,Yes,Rural,debt_consolidation,"12,123","88,296",13.73,732,N
+LP002068,Male,No,0,Graduate,No,Rural,debt_consolidation,"3,792","39,996",9.48,662,Y
+LP002082,Male,Yes,0,Graduate,Yes,Semiurban,credit_card,"8,731","107,000",8.16,757,Y
+LP002086,Female,Yes,0,Graduate,No,Urban,all_other, -   ,"28,800",0,777,N
+LP002087,Female,No,0,Graduate,No,Urban,all_other,791,"17,280",4.58,662,Y
+LP002097,Male,No,1,Graduate,No,Urban,all_other,"6,792","67,992",9.99,767,Y
+LP002098,Male,No,0,Graduate,No,Semiurban,all_other,467,"19,800",2.36,722,Y
+LP002100,Male,No,1,Graduate,No,Urban,debt_consolidation,"8,018","41,500",19.32,702,Y
+LP002101,Male,Yes,0,Graduate,No,Urban,all_other,"9,204","120,000",7.67,762,Y
+LP002103,Male,Yes,1,Graduate,Yes,Urban,home_improvement,"8,605","61,200",14.06,702,Y
+LP002106,Male,Yes,1,Graduate,Yes,Semiurban,debt_consolidation,"11,014","78,504",14.03,692,Y
+LP002110,Male,Yes,1,Graduate,No,Rural,all_other,"7,082","45,600",15.53,677,Y
+LP002112,Male,Yes,2,Graduate,Yes,Rural,all_other,"9,765","69,600",14.03,762,Y
+LP002113,Female,No,3+,Not Graduate,No,Urban,debt_consolidation,"10,404","61,200",17,762,N
+LP002114,Female,No,0,Graduate,No,Semiurban,major_purchase,"6,648","35,064",18.96,742,Y
+LP002115,Male,Yes,3+,Not Graduate,No,Rural,debt_consolidation,"9,239","91,200",10.13,677,N
+LP002116,Female,No,0,Graduate,No,Rural,small_business,"7,875","63,000",12.5,667,N
+LP002119,Male,Yes,1,Not Graduate,No,Urban,credit_card,"18,557","110,000",16.87,722,Y
+LP002126,Male,Yes,3+,Not Graduate,No,Semiurban,all_other, -   ,"48,000",0,692,Y
+LP002128,Male,Yes,2,Graduate,No,Rural,debt_consolidation,"4,581","77,250",5.93,727,Y
+LP002129,Male,Yes,0,Graduate,No,Semiurban,credit_card,"2,832","36,500",7.76,687,Y
+LP002130,Male,Yes,1,Not Graduate,No,Rural,all_other,"6,754","39,270",17.2,667,N
+LP002131,Male,Yes,2,Not Graduate,No,Urban,all_other,720,"19,500",3.69,667,Y
+LP002137,Male,Yes,0,Graduate,No,Semiurban,all_other,766,"57,600",1.33,767,Y
+LP002138,Male,Yes,0,Graduate,No,Rural,all_other,"3,686","72,000",5.12,687,Y
+LP002139,Male,Yes,0,Graduate,No,Semiurban,credit_card,"4,545","75,000",6.06,742,Y
+LP002140,Male,No,0,Graduate,No,Rural,debt_consolidation,"7,176","44,685",16.06,677,N
+LP002141,Male,Yes,3+,Graduate,No,Rural,debt_consolidation,983,"36,000",2.73,742,Y
+LP002142,Female,Yes,0,Graduate,Yes,Rural,debt_consolidation,"5,174","49,896",10.37,767,N
+LP002143,Female,Yes,0,Graduate,No,Semiurban,debt_consolidation,"5,928","30,000",19.76,702,Y
+LP002144,Female,No,1,Graduate,No,Urban,credit_card,"10,548","72,000",14.65,682,Y
+LP002149,Male,Yes,2,Graduate,No,Rural,debt_consolidation,"9,110","48,000",18.98,682,Y
+LP002151,Male,Yes,1,Graduate,No,Urban,all_other,"5,639","38,000",14.84,677,N
+LP002158,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation,"8,436","47,000",17.95,677,N
+LP002160,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"5,404","76,000",7.11,667,Y
+LP002161,Female,No,1,Graduate,No,Semiurban,small_business,"1,391","65,000",2.14,777,N
+LP002170,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"1,043","21,600",4.83,712,Y
+LP002175,Male,Yes,0,Graduate,No,Urban,all_other,"4,991","38,100",13.1,767,Y
+LP002178,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"6,288","48,000",13.1,662,Y
+LP002180,Male,No,0,Graduate,Yes,Rural,all_other,"2,855","36,000",7.93,692,Y
+LP002181,Male,No,0,Not Graduate,No,Rural,major_purchase,"12,036","60,000",20.06,697,N
+LP002187,Male,No,0,Graduate,No,Semiurban,credit_card,544,"165,000",0.33,732,N
+LP002188,Male,No,0,Graduate,No,Rural,all_other,"5,147","32,496",15.84,717,N
+LP002190,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"16,380","75,000",21.84,677,Y
+LP002191,Male,Yes,0,Graduate,No,Rural,all_other,"3,338","115,500",2.89,807,N
+LP002194,Female,No,0,Graduate,Yes,Semiurban,major_purchase,"5,748","60,000",9.58,757,Y
+LP002197,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"9,144","48,000",19.05,667,Y
+LP002201,Male,Yes,2,Graduate,Yes,Rural,small_business,"3,684","26,000",14.17,692,Y
+LP002205,Male,No,1,Graduate,No,Urban,debt_consolidation,"9,599","45,000",21.33,697,N
+LP002209,Female,No,0,Graduate,No,Urban,debt_consolidation,"4,174","55,000",7.59,722,Y
+LP002211,Male,Yes,0,Graduate,No,Urban,small_business,"19,354","84,000",23.04,662,Y
+LP002219,Male,Yes,3+,Graduate,No,Rural,debt_consolidation,"4,284","36,000",11.9,677,Y
+LP002223,Male,Yes,0,Graduate,No,Semiurban,all_other,"16,682","84,000",19.86,742,Y
+LP002224,Male,No,0,Graduate,No,Urban,credit_card,"12,456","62,000",20.09,697,N
+LP002225,Male,Yes,2,Graduate,No,Urban,all_other,122,"32,000",0.38,682,Y
+LP002226,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"9,419","52,500",17.94,667,Y
+LP002229,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"6,373","43,000",14.82,677,Y
+LP002231,Female,No,0,Graduate,No,Urban,major_purchase, -   ,"24,000",0,787,Y
+LP002234,Male,No,0,Graduate,Yes,Urban,all_other,"2,112","11,029",19.15,692,Y
+LP002236,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"4,680","37,200",12.58,702,N
+LP002237,Male,No,1,Graduate,No,Urban,all_other,"6,194","37,000",16.74,727,Y
+LP002239,Male,No,0,Not Graduate,No,Semiurban,all_other,"2,530","50,000",5.06,687,Y
+LP002243,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation, -   ,"60,000",0,672,N
+LP002244,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"2,102","45,000",4.67,662,Y
+LP002250,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"11,960","62,000",19.29,677,Y
+LP002255,Male,No,3+,Graduate,No,Rural,debt_consolidation,"5,062","40,500",12.5,727,Y
+LP002262,Male,Yes,3+,Graduate,No,Rural,all_other,"4,056","35,000",11.59,772,Y
+LP002263,Male,Yes,0,Graduate,No,Urban,small_business,"7,572","120,000",6.31,662,Y
+LP002265,Male,Yes,2,Not Graduate,No,Semiurban,debt_consolidation,"15,820","100,000",15.82,682,Y
+LP002266,Male,Yes,2,Graduate,No,Urban,credit_card,"11,736","90,000",13.04,697,Y
+LP002272,Male,Yes,2,Graduate,No,Semiurban,credit_card,"8,134","62,000",13.12,742,Y
+LP002277,Female,No,0,Graduate,No,Urban,debt_consolidation,"5,112","31,000",16.49,747,N
+LP002281,Male,Yes,0,Graduate,No,Urban,all_other,"4,308","44,000",9.79,732,Y
+LP002284,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"8,772","88,068",9.96,732,Y
+LP002287,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"11,535","75,000",15.38,662,N
+LP002288,Male,Yes,2,Not Graduate,No,Urban,small_business,"1,513","85,000",1.78,687,N
+LP002296,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"12,405","75,000",16.54,722,N
+LP002297,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"18,711","115,500",16.2,732,Y
+LP002300,Female,No,0,Not Graduate,No,Semiurban,credit_card,"26,442","175,000",15.11,742,Y
+LP002301,Female,No,0,Graduate,Yes,Rural,debt_consolidation,"14,320","100,000",14.32,677,N
+LP002305,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"28,069","113,000",24.84,682,Y
+LP002308,Male,Yes,0,Not Graduate,No,Urban,debt_consolidation,"5,867","57,860",10.14,702,Y
+LP002314,Female,No,0,Not Graduate,No,Rural,all_other,"30,920","200,000",15.46,692,Y
+LP002315,Male,Yes,1,Graduate,No,Semiurban,all_other,"4,390","50,000",8.78,702,N
+LP002317,Male,Yes,3+,Graduate,No,Rural,debt_consolidation,"5,230","46,000",11.37,677,N
+LP002318,Female,No,1,Not Graduate,Yes,Semiurban,debt_consolidation,"18,530","85,000",21.8,677,N
+LP002319,Male,Yes,0,Graduate,No,Urban,home_improvement,"2,362","375,000",0.63,702,Y
+LP002328,Male,Yes,0,Not Graduate,No,Rural,debt_consolidation,"2,545","36,000",7.07,697,N
+LP002332,Male,Yes,0,Not Graduate,No,Rural,all_other,"16,250","72,000",22.57,662,Y
+LP002335,Female,Yes,0,Not Graduate,No,Semiurban,credit_card,"8,737","35,244",24.79,697,N
+LP002337,Female,No,0,Graduate,No,Urban,small_business,"6,048","80,000",7.56,697,Y
+LP002341,Female,No,1,Graduate,No,Urban,small_business,"2,424","24,000",10.1,782,N
+LP002342,Male,Yes,2,Graduate,Yes,Urban,debt_consolidation,"4,056","40,000",10.14,747,N
+LP002345,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"4,719","65,000",7.26,757,Y
+LP002347,Male,Yes,0,Graduate,No,Semiurban,credit_card,"5,520","60,000",9.2,797,Y
+LP002348,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"10,210","50,000",20.42,692,Y
+LP002357,Female,No,0,Not Graduate,No,Urban,credit_card,"15,266","95,000",16.07,702,N
+LP002361,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"1,536","32,000",4.8,697,Y
+LP002362,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"1,597","66,000",2.42,682,N
+LP002364,Male,Yes,0,Graduate,No,Semiurban,credit_card,"11,474","69,500",16.51,692,Y
+LP002366,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"15,399","90,000",17.11,722,Y
+LP002367,Female,No,1,Not Graduate,No,Rural,credit_card,"13,065","78,000",16.75,692,N
+LP002368,Male,Yes,2,Graduate,No,Semiurban,credit_card,"17,516","107,000",16.37,682,Y
+LP002369,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"20,438","110,000",18.58,702,Y
+LP002370,Male,No,0,Not Graduate,No,Urban,debt_consolidation,"1,163","22,200",5.24,792,Y
+LP002377,Female,No,1,Graduate,Yes,Semiurban,all_other,"15,337","73,000",21.01,692,Y
+LP002379,Male,No,0,Graduate,No,Rural,educational,"1,776","20,000",8.88,782,N
+LP002386,Male,No,0,Graduate,No,Semiurban,small_business,"6,466","72,000",8.98,757,Y
+LP002387,Male,Yes,0,Graduate,No,Semiurban,home_improvement,"3,498","186,063",1.88,727,Y
+LP002390,Male,No,0,Graduate,No,Urban,home_improvement,"7,750","50,000",15.5,687,Y
+LP002393,Female,Yes,1,Graduate,No,Semiurban,debt_consolidation,"6,372","40,000",15.93,692,Y
+LP002398,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"7,093","55,200",12.85,682,Y
+LP002401,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"5,856","30,000",19.52,667,Y
+LP002403,Male,No,0,Graduate,Yes,Urban,debt_consolidation,"6,132","74,600",8.22,697,N
+LP002407,Female,Yes,0,Not Graduate,Yes,Rural,debt_consolidation,"3,289","31,000",10.61,722,Y
+LP002408,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"7,790","69,000",11.29,767,Y
+LP002409,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"12,277","78,000",15.74,722,Y
+LP002418,Male,No,3+,Not Graduate,No,Semiurban,small_business,"6,399","237,000",2.7,792,Y
+LP002422,Male,No,1,Graduate,No,Semiurban,debt_consolidation,"6,754","55,000",12.28,747,Y
+LP002424,Male,Yes,0,Graduate,No,Rural,all_other,"3,360","64,000",5.25,772,Y
+LP002429,Male,Yes,1,Graduate,Yes,Rural,credit_card,"15,529","65,000",23.89,672,Y
+LP002434,Male,Yes,2,Not Graduate,No,Rural,debt_consolidation,"1,008","48,000",2.1,672,Y
+LP002435,Male,Yes,0,Graduate,No,Rural,all_other,360,"35,000",1.03,727,N
+LP002443,Male,Yes,2,Graduate,No,Rural,home_improvement,"34,502","202,000",17.08,682,N
+LP002444,Male,No,1,Not Graduate,Yes,Semiurban,home_improvement,"6,013","65,000",9.25,757,N
+LP002446,Male,Yes,2,Not Graduate,No,Rural,all_other,"3,313","33,000",10.04,772,N
+LP002447,Male,Yes,2,Not Graduate,No,Urban,all_other,371,"64,000",0.58,712,Y
+LP002448,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"12,074","49,853",24.22,692,N
+LP002449,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"9,550","62,500",15.28,687,Y
+LP002453,Male,No,0,Graduate,Yes,Semiurban,credit_card,"4,187","25,000",16.75,732,Y
+LP002455,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"7,679","36,000",21.33,762,Y
+LP002459,Male,Yes,0,Graduate,No,Urban,credit_card,"1,104","30,000",3.68,732,Y
+LP002467,Male,Yes,0,Graduate,No,Urban,major_purchase,"11,686","88,000",13.28,727,N
+LP002472,Male,No,2,Graduate,No,Rural,debt_consolidation,"4,954","51,600",9.6,717,Y
+LP002473,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"2,196","45,000",4.88,732,N
+LP002478,Male,Yes,0,Graduate,Yes,Semiurban,debt_consolidation,"8,278","42,000",19.71,667,Y
+LP002484,Male,Yes,3+,Graduate,No,Urban,credit_card,"7,382","57,400",12.86,802,Y
+LP002487,Male,Yes,0,Graduate,No,Rural,all_other,176,"80,000",0.22,767,Y
+LP002489,Female,No,1,Not Graduate,No,Semiurban,debt_consolidation,"5,449","35,427",15.38,697,Y
+LP002493,Male,No,0,Graduate,No,Semiurban,debt_consolidation,"8,530","47,000",18.15,707,N
+LP002494,Male,No,0,Graduate,No,Rural,debt_consolidation,"5,726","48,000",11.93,717,Y
+LP002500,Male,Yes,3+,Not Graduate,No,Urban,debt_consolidation,"8,325","74,000",11.25,707,N
+LP002501,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"5,100","38,000",13.42,697,Y
+LP002502,Female,Yes,2,Not Graduate,No,Semiurban,all_other,385,"25,000",1.54,727,Y
+LP002505,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"6,898","35,000",19.71,692,N
+LP002515,Male,Yes,1,Graduate,Yes,Semiurban,debt_consolidation,"5,951","54,000",11.02,742,Y
+LP002517,Male,Yes,1,Not Graduate,No,Rural,debt_consolidation,"1,644","17,544",9.37,722,N
+LP002519,Male,Yes,3+,Graduate,No,Semiurban,credit_card,"6,995","50,000",13.99,752,Y
+LP002522,Female,No,0,Graduate,Yes,Urban,debt_consolidation,"12,398","82,000",15.12,672,Y
+LP002524,Male,No,2,Graduate,No,Rural,debt_consolidation,"5,955","90,096",6.61,692,Y
+LP002527,Male,Yes,2,Graduate,Yes,Rural,all_other,"3,612","60,000",6.02,787,Y
+LP002529,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"5,702","79,636",7.16,672,Y
+LP002530,Male,Yes,2,Graduate,No,Semiurban,all_other,"2,588","18,000",14.38,722,N
+LP002531,Male,Yes,1,Graduate,Yes,Semiurban,small_business,936,"20,000",4.68,737,Y
+LP002533,Male,Yes,2,Graduate,No,Urban,all_other,240,"7,904",3.04,682,N
+LP002534,Female,No,0,Not Graduate,No,Rural,small_business,"3,156","37,000",8.53,767,Y
+LP002536,Male,Yes,3+,Not Graduate,No,Rural,debt_consolidation,"6,335","70,000",9.05,702,Y
+LP002537,Male,Yes,0,Graduate,No,Semiurban,all_other,"7,512","43,000",17.47,702,Y
+LP002541,Male,Yes,0,Graduate,No,Semiurban,all_other,"6,758","48,000",14.08,792,Y
+LP002543,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"8,673","69,000",12.57,762,Y
+LP002544,Male,Yes,1,Not Graduate,No,Rural,debt_consolidation,"2,482","42,000",5.91,727,Y
+LP002545,Male,No,2,Graduate,No,Rural,credit_card,"4,368","39,000",11.2,722,N
+LP002547,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"4,080","28,000",14.57,702,N
+LP002555,Male,Yes,2,Graduate,Yes,Semiurban,all_other,"9,680","200,000",4.84,707,Y
+LP002556,Male,No,0,Graduate,No,Urban,all_other,"3,254","83,000",3.92,682,N
+LP002560,Male,No,0,Not Graduate,No,Semiurban,debt_consolidation,"1,488","31,400",4.74,722,Y
+LP002562,Male,Yes,1,Not Graduate,No,Urban,debt_consolidation,"4,907","27,600",17.78,717,Y
+LP002571,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"2,507","45,000",5.57,707,Y
+LP002582,Female,No,0,Not Graduate,Yes,Semiurban,debt_consolidation,"2,677","35,000",7.65,777,Y
+LP002585,Male,Yes,0,Graduate,No,Rural,credit_card,"1,201","19,000",6.32,737,N
+LP002586,Female,Yes,1,Graduate,No,Semiurban,debt_consolidation,"8,149","44,000",18.52,677,Y
+LP002587,Male,Yes,0,Not Graduate,No,Rural,home_improvement,"1,117","75,000",1.49,712,Y
+LP002588,Male,Yes,0,Graduate,No,Urban,all_other,"7,619","42,000",18.14,697,Y
+LP002600,Male,Yes,1,Graduate,Yes,Semiurban,debt_consolidation,"5,317","36,000",14.77,672,Y
+LP002602,Male,No,0,Graduate,No,Rural,credit_card,842,"101,400",0.83,777,N
+LP002603,Female,No,0,Graduate,No,Rural,credit_card,"3,235","101,400",3.19,777,Y
+LP002606,Female,No,0,Graduate,No,Semiurban,all_other,"4,895","22,000",22.25,737,Y
+LP002615,Male,Yes,2,Graduate,No,Semiurban,credit_card,"4,177","59,000",7.08,767,Y
+LP002618,Male,Yes,1,Not Graduate,No,Rural,debt_consolidation,"4,609","29,136",15.82,667,N
+LP002619,Male,Yes,0,Not Graduate,No,Semiurban,debt_consolidation,"8,666","50,004",17.33,737,Y
+LP002622,Male,Yes,2,Graduate,No,Rural,credit_card,"3,626","49,200",7.37,672,Y
+LP002624,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"3,743","20,400",18.35,742,Y
+LP002625,Male,No,0,Graduate,No,Urban,all_other,"37,969","215,000",17.66,707,N
+LP002626,Male,Yes,0,Graduate,Yes,Urban,all_other,"2,771","23,000",12.05,742,Y
+LP002634,Female,No,1,Graduate,No,Urban,educational,"5,031","65,000",7.74,707,Y
+LP002637,Male,No,0,Not Graduate,No,Rural,debt_consolidation,"4,571","42,328",10.8,732,N
+LP002640,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"1,755","90,000",1.95,767,Y
+LP002643,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"4,166","49,600",8.4,687,Y
+LP002648,Male,Yes,0,Graduate,No,Semiurban,all_other,688,"80,000",0.86,717,N
+LP002652,Male,No,0,Graduate,No,Rural,debt_consolidation,"3,528","58,800",6,672,N
+LP002659,Male,Yes,3+,Graduate,No,Rural,all_other,"1,905","75,000",2.54,802,Y
+LP002670,Female,Yes,2,Graduate,No,Semiurban,credit_card,"6,468","40,000",16.17,712,Y
+LP002682,Male,Yes,1,Not Graduate,No,Semiurban,small_business,"5,530","144,000",3.84,762,N
+LP002683,Male,No,0,Graduate,No,Semiurban,small_business,"2,376","26,000",9.14,762,N
+LP002684,Female,No,0,Not Graduate,No,Rural,debt_consolidation,"3,602","32,388",11.12,687,N
+LP002689,Male,Yes,2,Not Graduate,No,Semiurban,debt_consolidation,"2,149","37,500",5.73,682,Y
+LP002690,Male,No,0,Graduate,No,Semiurban,all_other,"14,817","66,000",22.45,707,Y
+LP002692,Male,Yes,3+,Graduate,Yes,Rural,debt_consolidation,"4,020","30,000",13.4,707,Y
+LP002693,Male,Yes,2,Graduate,Yes,Rural,small_business,"13,800","115,000",12,777,Y
+LP002697,Male,No,0,Graduate,No,Semiurban,small_business,"1,701","63,000",2.7,712,N
+LP002699,Male,Yes,2,Graduate,Yes,Rural,debt_consolidation,"1,140","25,000",4.56,667,Y
+LP002705,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"11,355","75,000",15.14,707,Y
+LP002706,Male,Yes,1,Not Graduate,No,Semiurban,home_improvement,360,"60,000",0.6,762,Y
+LP002714,Male,No,1,Not Graduate,No,Semiurban,debt_consolidation,"5,892","60,000",9.82,762,Y
+LP002716,Male,No,0,Not Graduate,No,Semiurban,debt_consolidation,"7,514","52,000",14.45,677,Y
+LP002717,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"2,232","17,573",12.7,772,Y
+LP002720,Male,Yes,3+,Graduate,No,Urban,debt_consolidation,"7,237","54,996",13.16,662,Y
+LP002723,Male,No,2,Graduate,No,Rural,small_business,120,"28,000",0.43,792,N
+LP002729,Male,No,1,Graduate,No,Semiurban,educational,"9,821","82,600",11.89,722,N
+LP002731,Female,No,0,Not Graduate,Yes,Urban,small_business,"2,320","100,000",2.32,697,Y
+LP002732,Male,No,0,Not Graduate,No,Rural,all_other,180,"36,000",0.5,702,Y
+LP002734,Male,Yes,0,Graduate,No,Urban,small_business,"9,782","42,000",23.29,717,Y
+LP002738,Male,No,2,Graduate,No,Semiurban,debt_consolidation,"13,440","60,000",22.4,687,Y
+LP002739,Male,Yes,0,Not Graduate,No,Rural,debt_consolidation,"6,036","60,000",10.06,742,N
+LP002740,Male,Yes,3+,Graduate,No,Rural,credit_card,"4,560","19,000",24,707,Y
+LP002741,Female,Yes,1,Graduate,No,Semiurban,debt_consolidation,"6,757","33,600",20.11,717,Y
+LP002743,Female,No,0,Graduate,No,Semiurban,all_other,"2,283","69,400",3.29,672,N
+LP002753,Female,No,1,Graduate,No,Semiurban,debt_consolidation,"5,748","51,648",11.13,662,Y
+LP002755,Male,Yes,1,Not Graduate,No,Urban,all_other, -   ,"10,000",0,727,Y
+LP002757,Female,Yes,0,Not Graduate,No,Semiurban,home_improvement,"1,861","36,000",5.17,692,Y
+LP002767,Male,Yes,0,Graduate,No,Rural,all_other,"2,256","24,605",9.17,692,Y
+LP002768,Male,No,0,Not Graduate,No,Semiurban,all_other,"6,937","41,000",16.92,682,N
+LP002772,Male,No,0,Graduate,No,Rural,credit_card,"20,925","104,000",20.12,667,Y
+LP002776,Female,No,0,Graduate,No,Semiurban,debt_consolidation,"2,749","17,721",15.51,672,N
+LP002777,Male,Yes,0,Graduate,No,Rural,home_improvement,"9,924","92,400",10.74,677,Y
+LP002778,Male,Yes,2,Graduate,Yes,Rural,debt_consolidation,"3,537","76,554",4.62,667,N
+LP002784,Male,Yes,1,Not Graduate,No,Rural,credit_card,"8,995","37,000",24.31,742,Y
+LP002785,Male,Yes,1,Graduate,No,Urban,small_business,"3,035","25,000",12.14,802,Y
+LP002788,Male,Yes,0,Not Graduate,No,Urban,credit_card,"18,880","100,000",18.88,722,N
+LP002789,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"3,419","31,920",10.71,762,N
+LP002792,Male,Yes,1,Graduate,No,Semiurban,all_other,"7,632","36,996",20.63,702,Y
+LP002794,Female,No,0,Graduate,No,Urban,debt_consolidation,"9,311","45,000",20.69,732,Y
+LP002795,Male,Yes,3+,Graduate,Yes,Semiurban,debt_consolidation,"4,680","60,000",7.8,757,Y
+LP002798,Male,Yes,0,Graduate,No,Semiurban,small_business,"6,912","120,000",5.76,697,Y
+LP002804,Female,Yes,0,Graduate,No,Semiurban,credit_card,"6,167","52,000",11.86,727,Y
+LP002807,Male,Yes,2,Not Graduate,No,Semiurban,all_other,240,"60,000",0.4,707,Y
+LP002813,Female,Yes,1,Graduate,Yes,Semiurban,debt_consolidation,"16,204","80,415",20.15,677,Y
+LP002820,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"11,544","78,000",14.8,672,Y
+LP002821,Male,No,0,Not Graduate,Yes,Semiurban,debt_consolidation,"10,510","100,000",10.51,742,Y
+LP002832,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"14,338","58,000",24.72,702,N
+LP002833,Male,Yes,0,Not Graduate,No,Rural,debt_consolidation,"16,917","107,000",15.81,662,Y
+LP002836,Male,No,0,Graduate,No,Urban,credit_card,504,"34,500",1.46,712,Y
+LP002837,Male,Yes,3+,Graduate,No,Rural,home_improvement,"5,268","32,400",16.26,717,N
+LP002840,Female,No,0,Graduate,No,Urban,debt_consolidation,"6,250","52,000",12.02,672,N
+LP002841,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"3,731","45,000",8.29,687,N
+LP002842,Male,Yes,1,Graduate,No,Urban,credit_card,"6,062","48,000",12.63,702,Y
+LP002847,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"2,736","45,000",6.08,677,N
+LP002855,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"6,061","53,307",11.37,717,Y
+LP002862,Male,Yes,2,Not Graduate,No,Semiurban,debt_consolidation,"10,202","45,000",22.67,702,N
+LP002863,Male,Yes,3+,Graduate,No,Semiurban,debt_consolidation,"6,036","38,400",15.72,722,N
+LP002868,Male,Yes,2,Graduate,No,Urban,small_business,"1,535","38,000",4.04,687,Y
+LP002872,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"7,691","39,996",19.23,722,N
+LP002874,Male,No,0,Graduate,No,Urban,all_other,"9,900","200,000",4.95,777,Y
+LP002877,Male,Yes,1,Graduate,No,Rural,home_improvement,"8,954","75,885",11.8,717,Y
+LP002888,Male,No,0,Graduate,No,Urban,credit_card,"5,256","24,000",21.9,662,Y
+LP002892,Male,Yes,2,Graduate,No,Semiurban,debt_consolidation,"16,584","80,000",20.73,697,Y
+LP002893,Male,No,0,Graduate,No,Urban,debt_consolidation,"1,224","38,000",3.22,722,N
+LP002894,Female,Yes,0,Graduate,No,Semiurban,debt_consolidation,"6,890","52,559",13.11,727,Y
+LP002898,Male,Yes,1,Graduate,No,Rural,debt_consolidation,330,"150,000",0.22,782,N
+LP002911,Male,Yes,1,Graduate,No,Rural,debt_consolidation,"3,948","30,000",13.16,752,N
+LP002912,Male,Yes,1,Graduate,No,Rural,debt_consolidation,"10,140","65,000",15.6,662,N
+LP002916,Male,Yes,0,Graduate,No,Urban,debt_consolidation,"5,219","36,120",14.45,707,Y
+LP002917,Female,No,0,Not Graduate,No,Semiurban,debt_consolidation,"8,146","34,000",23.96,742,Y
+LP002925,Male,No,0,Graduate,No,Semiurban,small_business,"2,399","71,600",3.35,662,Y
+LP002926,Male,Yes,2,Graduate,Yes,Semiurban,debt_consolidation,360,"39,600",0.91,767,N
+LP002928,Male,Yes,0,Graduate,No,Semiurban,debt_consolidation,"1,368","25,200",5.43,707,Y
+LP002931,Male,Yes,2,Graduate,Yes,Semiurban,credit_card,"7,599","65,000",11.69,727,N
+LP002933,Male,No,3+,Graduate,Yes,Semiurban,debt_consolidation,"3,314","38,000",8.72,687,Y
+LP002936,Male,Yes,0,Graduate,No,Rural,home_improvement,"11,100","75,000",14.8,712,Y
+LP002938,Male,Yes,0,Graduate,Yes,Urban,debt_consolidation,"8,475","75,000",11.3,692,Y
+LP002940,Male,No,0,Not Graduate,No,Rural,debt_consolidation,936,"36,000",2.6,742,Y
+LP002941,Male,Yes,2,Not Graduate,Yes,Rural,debt_consolidation,"4,669","35,400",13.19,662,N
+LP002943,Male,No,1,Graduate,No,Semiurban,small_business,"7,896","60,000",13.16,732,N
+LP002945,Male,Yes,0,Graduate,Yes,Rural,major_purchase,252,"35,020",0.72,742,Y
+LP002948,Male,Yes,2,Graduate,No,Urban,debt_consolidation,"13,059","65,000",20.09,662,Y
+LP002949,Female,No,3+,Graduate,No,Urban,debt_consolidation,"6,998","48,000",14.58,717,N
+LP002950,Male,Yes,0,Not Graduate,No,Rural,credit_card,"15,093","135,000",11.18,737,Y
+LP002953,Male,Yes,3+,Graduate,No,Urban,all_other, -   ,"117,000",0,787,Y
+LP002958,Male,No,0,Graduate,No,Rural,home_improvement,182,"57,000",0.32,717,Y
+LP002959,Female,Yes,1,Graduate,No,Semiurban,debt_consolidation,"4,632","30,000",15.44,687,Y
+LP002960,Male,Yes,0,Not Graduate,No,Urban,major_purchase,"7,801","38,000",20.53,732,N
+LP002961,Male,Yes,1,Graduate,No,Semiurban,debt_consolidation,"5,590","65,000",8.6,687,Y
+LP002964,Male,Yes,2,Not Graduate,No,Rural,debt_consolidation,"2,352","24,000",9.8,682,Y
+LP002974,Male,Yes,0,Graduate,No,Rural,debt_consolidation,"3,505","50,433",6.95,687,Y
+LP002978,Female,No,0,Graduate,No,Rural,all_other,806,"45,000",1.79,767,Y
+LP002979,Male,Yes,3+,Graduate,No,Rural,home_improvement,"1,500","26,000",5.77,777,Y
+LP002983,Male,Yes,1,Graduate,No,Urban,debt_consolidation,"4,970","57,720",8.61,697,Y
+LP002984,Male,Yes,2,Graduate,No,Urban,all_other,"2,988","40,000",7.47,707,Y
+LP002990,Female,No,0,Graduate,Yes,Semiurban,debt_consolidation,"10,941","69,600",15.72,707,N

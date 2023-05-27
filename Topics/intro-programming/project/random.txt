@@ -1,0 +1,6 @@
+intro break and continue as extra 
+multiple ways to do the same thing
+parantheses, commas, square brackets, curley brackets, opening and closing brackets
+indices
+introduce the range function
+how to traverse complicated dictionaries

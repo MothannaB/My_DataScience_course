@@ -1,0 +1,12 @@
+Loan_ID,Gender/Married,Dependents,Education,Self_Employed,Property_Area,purpose,loan amount,annual income,dti,fico credit score,Loan_Status,
+LP001002,Male/no,No,0,Graduate,No,Urban,debt_consolidation,"16,558","85,000",19.48,737,Y
+LP001003,Male/yes,Yes,1,Graduate,No,Rural,credit_card,"9,289","65,000",14.29,707,N
+LP001003,Male/yes,Yes,1,Graduate,No,Rural,credit_card,"9,289","65,000",14.29,707,N
+LP001005,Male/yes,Yes,0,Graduate,Yes,Urban,debt_consolidation,"3,722"," $32,000.00 ",11.63,682,Y
+LP001006,Male/yes,Yes,0,Not Graduate,No,Urban,debt_consolidation,"6,885","85,000",8.1,712,Y
+LP001008,Male/no,No,0,Graduate,No,Urban,credit_card,"12,096","80,800",14.97,,Y
+LP001011,Male/yes,Yes,2,Graduate,Yes,Urban,credit_card,"25,130","148,000",16.98,727,Y
+LP001013,Male/yes,Yes,0,Not Graduate,No,Urban,debt_consolidation,"1,800","45,000",4,667,Y
+LP001014,Male/yes,Yes,3+,Graduate,No,Semiurban,all_other,"6,648","60,000",11.08,722,N
+LP001018,Male/yes,Yes,2,Graduate,No,Urban,home_improvement,"15,525","90,000",17.25,682,Y
+LP001020,Male/yes,no,1,Graduate,No,Semiurban,debt_consolidation,"2,700","27,000",10,7070,N

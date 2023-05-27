@@ -1,0 +1,12 @@
+intro break and continue as extra 
+multiple ways to do the same thing
+parantheses, commas, square brackets, curley brackets, opening and closing brackets.
+Open and close them at the same time to avoid pairing issues
+indices
+introduce the range function
+how to traverse complicated dictionaries
+introduce OOP and mention how what objects we have dealt with so far and what methods they have
+introduce *args and *kwargs
+function serialization
+variable(df) update with the previous value + something or inplace=true
+index location in dataframe
